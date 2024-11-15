@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/eef76b143584307.627d06916ce10.gif"  />
+  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/eef76b143584307.627d06916ce10.gif"  />
 </div>
 
 ###
