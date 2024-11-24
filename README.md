@@ -6,6 +6,7 @@
  <img src="https://e1.pxfuel.com/desktop-wallpaper/705/445/desktop-wallpaper-autumn-in-the-city-pixel-live-autumn-pixel-art.jpg"/> 
  <!-- <img src="https://badges.pufler.dev/years/lu1zc4rlos"/> -->
   <p align="center">
+ <img src="https://badges.pufler.dev/visits/lu1zc4rlos/lu1zc4rlos"/>
  <img src="https://badges.pufler.dev/repos/lu1zc4rlos"/>
  <img src="https://badges.pufler.dev/commits/monthly/lu1zc4rlos" />
 
