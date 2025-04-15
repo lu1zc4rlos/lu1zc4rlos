@@ -34,6 +34,7 @@
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: luiz.programa.carlos@gmail.com">
  <img src="https://img.shields.io/badge/-lu1zc4rlos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.programa.carlos@gmail.com"/>
+ <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&mailto:luiz.programa.carlos@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/luiz-carlos-b335142b6/">
  <img src="https://img.shields.io/badge/-lu1zc4rlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/
