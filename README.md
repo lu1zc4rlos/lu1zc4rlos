@@ -36,8 +36,6 @@
  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&mailto:luiz.programa.carlos@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/luiz-carlos-b335142b6/">
- <img src="https://img.shields.io/badge/-lu1zc4rlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/
-luiz-carlos-b335142b6"/>
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/luiz-carlos-b335142b6"/>
 </a>
  <a href="https://www.instagram.com/luz_carlo3/">
