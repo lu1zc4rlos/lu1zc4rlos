@@ -3,10 +3,14 @@
 </div>
 
 ###
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zc4rlos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&line_height=27">
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  </div>
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lu1zc4rlos&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
  
 <p align="center">
  <img src="https://e1.pxfuel.com/desktop-wallpaper/705/445/desktop-wallpaper-autumn-in-the-city-pixel-live-autumn-pixel-art.jpg"/> 
