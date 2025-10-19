@@ -4,6 +4,10 @@
 
 ###
 <p align="center">
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zc4rlos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
  
 </p align="center">
 
@@ -64,12 +68,6 @@
 </h2>
  
 <br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zc4rlos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
 
 <hr>
 <p align="center">Focado no meu sonho 😸</p>
