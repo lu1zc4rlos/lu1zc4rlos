@@ -10,12 +10,6 @@
 <p align="center">
  <img src="https://e1.pxfuel.com/desktop-wallpaper/705/445/desktop-wallpaper-autumn-in-the-city-pixel-live-autumn-pixel-art.jpg"/> 
  <!-- <img src="https://badges.pufler.dev/years/lu1zc4rlos"/> -->
-  <p align="center">
- <img src="https://badges.pufler.dev/visits/lu1zc4rlos/lu1zc4rlos"/>
- <img src="https://badges.pufler.dev/repos/lu1zc4rlos"/>
- <img src="https://badges.pufler.dev/commits/monthly/lu1zc4rlos" />
-
-</p>
 
 <!-- <p align="center">
   I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
