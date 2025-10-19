@@ -3,14 +3,11 @@
 </div>
 
 ###
-<p align="center">
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zc4rlos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lu1zc4rlos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&line_height=27">
 </p>
  
-</p align="center">
-
 <p align="center">
  <img src="https://e1.pxfuel.com/desktop-wallpaper/705/445/desktop-wallpaper-autumn-in-the-city-pixel-live-autumn-pixel-art.jpg"/> 
  <!-- <img src="https://badges.pufler.dev/years/lu1zc4rlos"/> -->
