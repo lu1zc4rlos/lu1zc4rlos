@@ -3,12 +3,12 @@
 </div>
 
 ###
-<table align="center">
+<table align="center" border="0" cellspacing="10">
   <tr>
-    <td align="center">
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" alt="stats graph" />
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lu1zc4rlos&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" alt="languages graph" />
     </td>
   </tr>
