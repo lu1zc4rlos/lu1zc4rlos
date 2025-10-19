@@ -23,11 +23,10 @@
 
 <h2 align="center">Pilha de tecnologia <img src="https://cdna.artstation.com/p/assets/images/images/076/610/998/original/miroon-cat.gif?1717393735" width="40"></h2>
 
-<p align="left">Hello World!!</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
