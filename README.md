@@ -56,13 +56,13 @@ Hello World,I´m Luiz Carlos,be very welcome
 </div>
 <h3 align="center"> Biografia  <h3>
 
-<h5>
+<h4>
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e estou construindo minha carreira para me tornar um Desenvolvedor Full Stack.
 
 Minha paixão por tecnologia é movida pela curiosidade e pelo prazer de enfrentar novos desafios. Tenho um perfil analítico e gosto de mergulhar em problemas complexos para encontrar soluções eficientes e criativas.
 
 Atualmente, estou focado em aprender as principais tecnologias do mercado para desenvolvimento web e busco uma primeira oportunidade (estágio ou vaga júnior) para aplicar meus conhecimentos, colaborar com uma equipe e crescer profissionalmente.
-</h5>
+</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu1zc4rlos/lu1zc4rlos/output/pacman-contribution-graph-dark.svg">
