@@ -38,30 +38,31 @@ Hello World,I´m Luiz Carlos,be very welcome
 </div>
 
 ###
+<h3 align="center"> Social Media <h3>
 
-<h2 align="center">Entre em contato comigo</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiz-carlos-b335142b6" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/ehV8jFT9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/luizcarlos12344?igsh=cjc2OGZpd3ZzMnR1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="jujuni1000.carlos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+<h3 align="center"> Biografia  <h3>
 
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: luiz.programa.carlos@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&mailto:luiz.programa.carlos@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/luiz-carlos-b335142b6/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/luiz-carlos-b335142b6"/>
-</a>
- <a href="https://www.instagram.com/luz_carlo3/">
- <img src="https://img.shields.io/badge/-lu1zc4rlos-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.instagram.com/luz_carlo3"/>
-</a>
-</p>
+<h5>
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e estou construindo minha carreira para me tornar um Desenvolvedor Full Stack.
 
-<h2 align="center">
-  Minhas estatísticas no Github<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
+Minha paixão por tecnologia é movida pela curiosidade e pelo prazer de enfrentar novos desafios. Tenho um perfil analítico e gosto de mergulhar em problemas complexos para encontrar soluções eficientes e criativas.
 
-<hr>
-<p align="center">Focado no meu sonho 😸</p>
+Atualmente, estou focado em aprender as principais tecnologias do mercado para desenvolvimento web e busco uma primeira oportunidade (estágio ou vaga júnior) para aplicar meus conhecimentos, colaborar com uma equipe e crescer profissionalmente.
+</h5>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu1zc4rlos/lu1zc4rlos/output/pacman-contribution-graph-dark.svg">
