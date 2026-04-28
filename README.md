@@ -42,7 +42,7 @@ Hello World,I´m Luiz Carlos,be very welcome
 <h3 align="center"> Social Media <h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/luizcarlos-dev" target="_blank">
+  <a href="www.linkedin.com/in/luizcarlos-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/ehV8jFT9" target="_blank">
