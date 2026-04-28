@@ -58,11 +58,13 @@ Hello World,I´m Luiz Carlos,be very welcome
 <h3 align="center"> Biografia  <h3>
 
 <h4>
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e estou construindo minha carreira para me tornar um Desenvolvedor Full Stack.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente curso Ciência da Computação.
 
-Minha paixão por tecnologia é movida pela curiosidade e pelo prazer de enfrentar novos desafios. Tenho um perfil analítico e gosto de mergulhar em problemas complexos para encontrar soluções eficientes e criativas.
+Tenho experiência em projetos colaborativos acadêmicos, participação em hackathon e desenvolvimento de soluções em equipe.
 
-Atualmente, estou focado em aprender as principais tecnologias do mercado para desenvolvimento web e busco uma primeira oportunidade (estágio ou vaga júnior) para aplicar meus conhecimentos, colaborar com uma equipe e crescer profissionalmente.
+Atualmente foco em backend com Java, Spring Boot e SQL, criando APIs REST e projetos práticos com boas práticas de desenvolvimento.
+
+Busco uma oportunidade para transformar conhecimento em resultados reais, evoluir tecnicamente e construir uma carreira sólida na tecnologia.
 </h4>
 
 <picture>
