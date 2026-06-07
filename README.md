@@ -1,76 +1,90 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lu1zc4rlos.lu1zc4rlos&"  />
 </div>
-<h1>
-Hello World,I´m Luiz Carlos,be very welcome
-</h1>
-<br>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lu1zc4rlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lu1zc4rlos&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
+# Hi 👋, I'm Luiz Carlos
 
-###
+🚀 **Software Engineer | Java & Spring Boot**  
+🇧🇷 Brazil
 
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+Eu construo **sistemas backend robustos**, **APIs RESTful** e **soluções de software em equipe**.
 
-###
-<h3 align="center"> Social Media <h3>
+Sou profundamente focado em **Java**, **Spring Boot**, **SQL** e na aplicação de **boas práticas de desenvolvimento**.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/luizcarlos-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente amplio meus conhecimentos em **Ciência da Computação**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/lu1zc4rlos">
+    <img src="https://img.shields.io/badge/GitHub-LUIZCARLOS-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://discord.gg/ehV8jFT9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://instagram.com/luizcarlos12344">
+    <img src="https://img.shields.io/badge/Instagram-@luizcarlos12344-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/luizcarlos12344?igsh=cjc2OGZpd3ZzMnR1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="jujuni1000.carlos@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-<h3 align="center"> Biografia  <h3>
+ 
+  <a href="https://www.linkedin.com/in/luizcarlos-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-@LUIZCARLOS_DEV-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-<h4>
-Sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente curso Ciência da Computação.
+---
 
-Tenho experiência em projetos colaborativos acadêmicos, participação em hackathon e desenvolvimento de soluções em equipe.
+## 🧠 What I do
 
-Atualmente foco em backend com Java, Spring Boot e SQL, criando APIs REST e projetos práticos com boas práticas de desenvolvimento.
+-   🏗️ Desenvolvimento Backend & Sistemas Robustos
+-   ⚡ Otimização de performance & Clean Code
+-   🧩 Arquitetura de software & Design de sistemas
+-   🔐 APIs RESTful seguras & Autenticação
+-   💼 Regras de negócio & Modelagem de bancos de dados (SQL)
+-   🤖 Automação, Inteligência Artificial & Integrações
+-   👥 Trabalho em equipe & Projetos colaborativos
 
-Busco uma oportunidade para transformar conhecimento em resultados reais, evoluir tecnicamente e construir uma carreira sólida na tecnologia.
-</h4>
+---
+
+## 🛠️ Tech Stack
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Ferramentas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+
+---
+
+## 🚀 Filosofia
+
+> _"Código não é apenas sobre resolver problemas. É sobre construir soluções que escalam, duram e geram valor real."_
+
+---
+
+⭐ Se você gostou do meu trabalho, sinta-se à vontade para favoritar (dar uma star) em um repositório!  
+🤝 Sempre aberto a conexões profissionais, projetos colaborativos e novas ideias.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lu1zc4rlos/lu1zc4rlos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lu1zc4rlos/lu1zc4rlos/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lu1zc4rlos/lu1zc4rlos/output/pacman-contribution-graph.svg">
 </picture>
-
-###
